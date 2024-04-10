@@ -1,0 +1,6 @@
+@API.FurtitureStore.API_HostAddress = http://localhost:5071
+
+GET {{API.FurtitureStore.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
